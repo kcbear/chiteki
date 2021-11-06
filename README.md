@@ -10,4 +10,4 @@ An asset’s volume-weighted average price (VWAP) is calculated by taking the av
 
 Objective
 1. to evaluate a particular set of execution whether it is underperformed or overperformed based on TWAP and VWAP algo trading strategy
-2. to consume a raw data set of past trading history, forming a time series over executed prices and volume
+2. to consume a raw data set of historical stock data, forming a time series with executed prices and volume
